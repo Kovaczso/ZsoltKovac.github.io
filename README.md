@@ -1,5 +1,5 @@
 # ![Logo](favicon/favicon-32x32.png) ZK Portfolio Website
-#### Welcome to my portfolio website! This website serves as a digital space for myself to showcase my projects and delve into the world of data-driven solutions. It features various sections including an introduction, details about my experience and technical proficiency, a showcase of my projects, and a contact form for reaching out. 
+#### Welcome to my portfolio website! This digital space allows me to showcase my projects and explore data-driven solutions. It features various sections, including an introduction, details about my experience and technical proficiency, a showcase of my projects, and a contact form for reaching out.
 ##### The website is fully operational, featuring a functional contact form allowing users to submit messages directly. Notably, the development and hosting of the website incurred zero costs.
 
 ## Technologies Used 
